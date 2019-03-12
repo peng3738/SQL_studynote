@@ -1,4 +1,4 @@
-*
+/*
 DDL(data definition language)
 create table 
 drop table
